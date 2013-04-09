@@ -1,0 +1,9 @@
+8,10 6,9
+xxxxxxx xx
+  xx     x
+x  xxxxxxx
+x xx     x
+x  xxxxxxx
+xx x     x
+x         
+xxxxxxxxxx
