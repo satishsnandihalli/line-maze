@@ -1,0 +1,25 @@
+24,72 22,71
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                                               x       x
+        x    x                                                 x       x
+        x    x                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x       x
+        x    x                                             x   x       x
+        x    x                                             x   x       x
+        x    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        x   x       x
+        x                                         x        x   x       x
+        x    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     x        x   x       x
+        x    x   x                          x     x  xx    x   x       x
+        x    x   x     x                    xxxx  x  x     x   x       x
+        x    x   x     x    xxxxxxxxxxxxxxxxxxxx  x  x     x   x       x
+        x    x   x     x                          x  x     x   x       x
+        x    x   x     x                          x  x     x   x       x
+        x    x   x     x                          x  x     x   x       x
+        x    x   x     x      xxxxxxxxxxxxxxxxxxxxx  x     x   x       x
+        x    x   x     x                             x     x   x       x
+        x    x   x     x                             x     x   x       x
+        x    x   x     x                             x         x       x
+        x    x   xxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       x       x
+        x    x                                                 x       x
+        x    x   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       x
+        x  xxx                                                          
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
